@@ -19,8 +19,8 @@ class TestComputer:
         master_order_page.call_the_wizard_with_valid_data(driver)
         # driver.save_screenshot("screen.png")
         # print(driver.get_cookies())
-        driver.add_cookie({
-            "name": "POP",
-            "value": "Kukushka"
-        })
+        # driver.add_cookie({
+        #     "name": "POP",
+        #     "value": "Kukushka"
+        # })
 
